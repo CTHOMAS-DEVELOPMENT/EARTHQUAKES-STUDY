@@ -8,7 +8,7 @@ Type 'npm run dev-server' in the root directory where the package.json file.
 
 The application will run at: http://localhost:8080/ when installed.
 
-NB: You can also run the [demo version 0.9.0](http://neat-lunchroom.surge.sh//) before / instead of install.
+NB: You can also run the [demo version 0.9.0](http://neat-lunchroom.surge.sh/) before / instead of install.
 
 ### Earthquake study
 
