@@ -12,7 +12,7 @@ NB: You can also run the [demo version 0.9.0](http://neat-lunchroom.surge.sh/) b
 
 ### Earthquake study
 
-This application can be used to manipulate required data sets from data derived from earthquakes from this [Earthquakes Hazards Program] (https://earthquake.usgs.gov/).
+This application can be used to manipulate required data sets from data derived from earthquakes from this [Earthquakes Hazards Program](https://earthquake.usgs.gov/).
 
 ### Technical notes
 
