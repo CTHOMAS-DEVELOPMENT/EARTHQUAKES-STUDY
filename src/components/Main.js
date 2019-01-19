@@ -14,12 +14,7 @@ class ConnectedMain extends React.Component {
       earthquakes: []
     };
   }
-  getMagFilter= (min , max, earthquakes) => {
-    return earthquakes.filter((earthquake)=>{
-      return parseFloat(earthquake.properties.mag) > parseFloat(min) && parseFloat(earthquake.properties.mag) < parseFloat(max) ? true: false;
-    }
-    )
-  }
+
   render() {
     return (
       <div className="row mt-5">
